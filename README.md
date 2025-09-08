@@ -1,4 +1,4 @@
-# Victor 61040 Portfouio
+# Victor 61040 Portfolio
 
 # About Me
 My name is Victor Ogunsanya, I'm a Junior 6-3 student not doing much in particular yet. My goals for this semester is to make a bunch of projects and maybe start getting involved in a more hardware oriented club like Roboteam or the rocket team. I also hope I survive through 6.1220.
