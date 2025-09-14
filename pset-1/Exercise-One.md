@@ -1,3 +1,4 @@
+#### [Return to README](../README.md#problem-set-one-reading-and-writing-concepts)
 ### Questions
 1. **Invariants**
 The relationship between requests and purchases is that the sum of the total number of purchases for an item across all purchases and the remaining count of that item's request must equal the original total requested. The other invariant is that the counts of Items must be nonnegative. The more important invariant is the relationship between requests and purchases because it is that relationship that builds the fundamental concept of a gift registry. The purcahse action is most affected by this invariant and it preserves it by requiring that purchases have active requests with counts >= the purchase amount.
