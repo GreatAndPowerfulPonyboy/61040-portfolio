@@ -19,3 +19,10 @@ Some fun facts about me:
 [Stakeholders](assignment-one/Stakeholders.md)
 [Evidence](assignment-one/Evidence.md)
 [Features](assignment-one/Features.md)
+
+### Problem Set One: Reading and Writing Concepts
+
+[Exercise One](pset-1/Exercise-One.md)
+[Exercise Two](pset-1/Exercise-Two.md)
+[Exercise Three](pset-1/Exercise-Three.md)
+[Exercise Four](pset-1/Exercise-Four.md)
