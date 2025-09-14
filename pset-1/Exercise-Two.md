@@ -1,7 +1,7 @@
 #### [Return to README](../README.md#problem-set-one-reading-and-writing-concepts)
 **Concept** PasswordAuthentication
 
-**Purpose** limit access to known useres
+**Purpose** limit access to known users
 
 **principle** after a user registers with a username and password,
 
@@ -35,7 +35,7 @@ authenticate(username:String, password:String): (user:User)
 
 **Concept** PasswordAuthentication
 
-**Purpose** limit access to known useres
+**Purpose** limit access to known users
 
 **principle** after a user registers with an email,
 
