@@ -1,3 +1,4 @@
+#### [Return to README](../README.md/#problem-set-two-composing-concepts)
 **1. Contexts**
 
 Context codifies the idea of a generic namespace or scope. They define a domain in which we enforce the uniqueness of a set of strings within, while allowing that uniqueness to be violated across different contexts/scopes. In the URL shortening app, a context could be a service-wide databse or a per user or even per target website database.

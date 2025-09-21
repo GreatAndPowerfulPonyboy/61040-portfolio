@@ -1,3 +1,4 @@
+#### [Return to README](../README.md/#problem-set-two-composing-concepts)
 **1. Partial Matching**
 In the first sync, generate doesn't need targeturl as part of a set of bindings in order to function, so it can be omitted. UrlShortening.register, however, does require both shortURLBase and targetUrl, so it needs to be clearly indicated that those variables are within the set of bindings of the scope.
 

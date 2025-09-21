@@ -26,3 +26,9 @@ Some fun facts about me:
 [Exercise Two](pset-1/Exercise-Two.md)
 [Exercise Three](pset-1/Exercise-Three.md)
 [Exercise Four](pset-1/Exercise-Four.md)
+
+### Problem Set Two: Composing Concepts
+
+[Concept Questions](pset-2/ConceptQuestions.md)
+[Synch Questions](pset-2/SynchQuestions.md)
+[Design Extensions](pset-2/DesignExtensions.md)

@@ -1,4 +1,5 @@
 ## Part One: Designing Concepts
+#### [Return to README](../README.md/#problem-set-two-composing-concepts)
 **concept** UserSession
 
 **purpose** authenticate and track user identity
@@ -58,6 +59,7 @@ queryCount(user: User, resource: Resource) : (AccessCount: Integer)
 **effect** returns the AccessCount of the resource
 
 ## Part Two: Defining Syncs
+#### [Return to README](../README.md/#problem-set-two-composing-concepts)
 
 
 **sync** createAnalytics
@@ -79,6 +81,8 @@ queryCount(user: User, resource: Resource) : (AccessCount: Integer)
 **then** ResourceAnalytics.queryCount(user: user, resource: shortUrl)
 
 ## Part Three: Modularity
+#### [Return to README](../README.md/#problem-set-two-composing-concepts)
+
 
 1. Allowing users to create their own short URLs
 
