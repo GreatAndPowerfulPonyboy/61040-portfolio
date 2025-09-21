@@ -18,5 +18,4 @@ In the generate sync, make it so that Request.shortenUrl doesn't take an argumen
    system.expireResource() : (resource: Resource)
 
 **then**
-
     UrlShortening.delete(shortUrl: Resource)
