@@ -20,6 +20,13 @@ Some fun facts about me:
 [Evidence](assignment-one/Evidence.md)
 [Features](assignment-one/Features.md)
 
+### Assignment Two: Functional Design
+[ApplicationPitch](./assignment-two/ApplicationPitch.md)
+[ProblemStatement](./assignment-two/ProblemStatement.md)
+[ConceptDesign](./assignment-two/ConceptDesign.md)
+[UISketch](./assignment-two/UISketches.md)
+[UserJourney](./assignment-two/UserJourney.md)
+
 ### Problem Set One: Reading and Writing Concepts
 
 [Exercise One](pset-1/Exercise-One.md)
