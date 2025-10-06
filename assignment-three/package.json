@@ -1,0 +1,28 @@
+{
+  "name": "gemini-schedule-demo",
+  "version": "1.0.0",
+  "description": "A demo application showing how to use Google's Gemini API to create student schedules",
+  "main": "dist/templating-tests.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node dist/templating-tests.js",
+    "dev": "ts-node --transpile-only templating-tests.ts",
+    "test": "npm run build && node dist/templating-tests.js",
+    "manual": "npm run build && node -e \"require('./dist/templating-tests.js').testManualTemplates()\"",
+    "simple": "npm run build && node -e \"require('./dist/templating-tests.js').testLLMAssistedTemplate()\"",
+    "verbose": "npm run build && node -e \"require('./dist/templating-tests.js').testLLMAssistedTemplateVerboseStructureg()\"",
+    "terse": "npm run build && node -e \"require('./dist/templating-tests.js').testLLMAssistedTemplateTerseStructure()\"",
+    "mismatch": "npm run build && node -e \"require('./dist/templating-tests.js').testLLMAssistedTemplateMismatchedStructure()\""
+  },
+  "keywords": ["gemini", "ai", "schedule", "student", "demo", "typescript"],
+  "author": "Student Demo",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  }
+}
