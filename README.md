@@ -27,6 +27,12 @@ Some fun facts about me:
 [UISketch](./assignment-two/UISketches.md)
 [UserJourney](./assignment-two/UserJourney.md)
 
+
+### Assignment Three: An AI-Augmented Concept
+[Augmented Concept Spec](./assignment-three/AugmentedConcept.md)
+[User Journey](./assignment-three/UserJourney.md)
+[Prompt Experiments](./assignment-three/PromptExperiments.md)
+[Validators](./assignment-three/Validators.md)
 ### Problem Set One: Reading and Writing Concepts
 
 [Exercise One](pset-1/Exercise-One.md)
