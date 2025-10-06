@@ -7,3 +7,6 @@ Structure: “Compare [Theory A] and [Theory B] in terms of how each explains [M
 Placeholders: [Theory A], [Theory B], [Memory Process]
 
 Maya tweaks the language to better fit her course style and saves it. Later, when BloomDeck serves her cards from this template, she’s no longer recalling definitions—she’s comparing frameworks and justifying reasoning. The AI didn’t just create content; it scaffolded her movement up Bloom’s hierarchy, helping her study smarter and think more critically.
+
+![UI Sketch Image](userjourney_2.jpg)
+![UI Sketch Image 2(theoretical items to template)](userjourney_1.jpg)
